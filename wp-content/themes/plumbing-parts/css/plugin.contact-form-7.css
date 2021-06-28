@@ -1,0 +1,28 @@
+.wpcf7 input,
+.wpcf7 select,
+.wpcf7 textarea{
+	padding: 0.95em 1em 0.8em 1em
+}
+
+.wpcf7 input,
+.wpcf7 textarea{
+	width: 100%;
+}
+
+.wpcf7 p{
+	margin-bottom: 0.7143em;
+}
+
+.wpcf7-acceptance input[type="checkbox"]{
+	width: auto;
+	vertical-align: middle;
+}
+
+.wpcf7 input[type="submit"]{
+	transition: all ease .3s;
+	width: auto;
+}
+
+.wpcf7 span.wpcf7-list-item{
+	margin-left: 0;
+}
